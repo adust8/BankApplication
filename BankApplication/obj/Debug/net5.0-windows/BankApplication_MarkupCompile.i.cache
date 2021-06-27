@@ -1,0 +1,20 @@
+﻿BankApplication
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\
+BankApplication
+none
+false
+TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+C:\Users\audub\Downloads\BankApp\BankApplication\App.xaml
+12816303685
+
+21815397633
+217-316489224
+Windows\Autorization.xaml;Windows\DeleteAccountWindow.xaml;Windows\MainMenu.xaml;Windows\OpenAccount.xaml;Windows\SignUp.xaml;Windows\Страницы MainMenu\Account.xaml;Windows\Страницы MainMenu\Add.xaml;Windows\Страницы MainMenu\Transfer.xaml;Windows\Страницы MainMenu\Способы перевода\Account.xaml;Windows\Страницы MainMenu\Способы перевода\Phone.xaml;Windows\Страницы MainMenu\Способы платежа\FromAccount.xaml;Windows\Страницы MainMenu\Способы платежа\WithPhoneNumber.xaml;
+
+True
+

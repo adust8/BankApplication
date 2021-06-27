@@ -1,0 +1,42 @@
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\BankApplication.csprojAssemblyReference.cache
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\Autorization.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\MainMenu.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\SignIn.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\Страницы MainMenu\Account.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\Страницы MainMenu\Add.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\Страницы MainMenu\Transfer.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\Страницы MainMenu\Способы перевода\Account.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\Страницы MainMenu\Способы перевода\Phone.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\Страницы MainMenu\Способы платежа\FromAccount.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\App.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\Autorization.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\MainMenu.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\OpenAccount.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\SignIn.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\Страницы MainMenu\Account.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\Страницы MainMenu\Add.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\Страницы MainMenu\Transfer.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\Страницы MainMenu\Способы перевода\Account.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\Страницы MainMenu\Способы перевода\Phone.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\Страницы MainMenu\Способы платежа\FromAccount.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\Страницы MainMenu\Способы платежа\FromAnyCard.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\App.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\BankApplication_MarkupCompile.cache
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\BankApplication_MarkupCompile.lref
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\BankApplication.exe.config
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\BankApplication.exe
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\BankApplication.pdb
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\MaterialDesignColors.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\MaterialDesignColors.pdb
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\OpenAccount.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\Windows\Страницы MainMenu\Способы платежа\FromAnyCard.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\BankApplication.g.resources
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\BankApplication.Properties.Resources.resources
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\BankApplication.csproj.GenerateResource.cache
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\BankApplication.csproj.CopyComplete
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\BankApplication.exe
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\BankApplication.pdb

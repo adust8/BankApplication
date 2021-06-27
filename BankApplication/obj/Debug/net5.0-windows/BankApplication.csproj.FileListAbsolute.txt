@@ -1,0 +1,174 @@
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\BankApplication.exe
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\BankApplication.deps.json
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\BankApplication.runtimeconfig.json
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\BankApplication.runtimeconfig.dev.json
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\BankApplication.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\ref\BankApplication.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\BankApplication.pdb
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.csprojAssemblyReference.cache
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Autorization.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\MainMenu.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\SignUp.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Account.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Add.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Transfer.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Способы перевода\Account.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Способы перевода\Phone.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Способы платежа\FromAccount.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\App.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Autorization.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\MainMenu.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\OpenAccount.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\SignUp.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Account.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Add.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Transfer.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Способы перевода\Account.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Способы перевода\Phone.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Способы платежа\FromAccount.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication_MarkupCompile.cache
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication_MarkupCompile.lref
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\OpenAccount.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.g.resources
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.AssemblyInfoInputs.cache
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.AssemblyInfo.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.csproj.CoreCompileInputs.cache
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.csproj.CopyComplete
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\ref\BankApplication.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.pdb
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.genruntimeconfig.cache
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\DatabaseLibrary.dll
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\bin\Debug\net5.0-windows\DatabaseLibrary.pdb
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Способы платежа\WithPhoneNumber.baml
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Способы платежа\WithPhoneNumber.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\DeleteAccountWindow.g.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\DeleteAccountWindow.baml
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\BankApplication.exe
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\BankApplication.deps.json
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\BankApplication.runtimeconfig.json
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\BankApplication.runtimeconfig.dev.json
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\BankApplication.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\ref\BankApplication.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\BankApplication.pdb
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\DatabaseLibrary.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\bin\Debug\net5.0-windows\DatabaseLibrary.pdb
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.csproj.AssemblyReference.cache
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Autorization.baml
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\MainMenu.baml
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\SignUp.baml
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Account.baml
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Add.baml
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Transfer.baml
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Способы перевода\Account.baml
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Способы перевода\Phone.baml
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Способы платежа\FromAccount.baml
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Способы платежа\WithPhoneNumber.baml
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\App.baml
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Autorization.g.cs
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\DeleteAccountWindow.g.cs
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\MainMenu.g.cs
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\OpenAccount.g.cs
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\SignUp.g.cs
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Account.g.cs
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Add.g.cs
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Transfer.g.cs
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Способы перевода\Account.g.cs
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Способы перевода\Phone.g.cs
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Способы платежа\FromAccount.g.cs
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\Страницы MainMenu\Способы платежа\WithPhoneNumber.g.cs
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication_MarkupCompile.cache
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication_MarkupCompile.lref
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\DeleteAccountWindow.baml
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\Windows\OpenAccount.baml
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.g.resources
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.AssemblyInfoInputs.cache
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.AssemblyInfo.cs
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.csproj.CoreCompileInputs.cache
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.csproj.CopyComplete
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\ref\BankApplication.dll
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.pdb
+C:\Users\audub\Downloads\BankApp\BankApplication\obj\Debug\net5.0-windows\BankApplication.genruntimeconfig.cache

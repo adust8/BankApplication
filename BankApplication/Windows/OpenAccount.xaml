@@ -1,0 +1,26 @@
+﻿<Window x:Class="BankApplication.Windows.OpenAccount"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BankApplication.Windows"
+        mc:Ignorable="d"
+        Title="Открыть счёт" Height="300" Width="400" ResizeMode="NoResize" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Content="Выберите тип открываемого счёта" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10"/>
+        <ComboBox Width="200" Height="30" x:Name="accountTypeComboBox" HorizontalAlignment="Center" VerticalAlignment="Top" RenderTransformOrigin="0.502,1.129" Margin="0,39,0,0">
+            <!--
+                <ComboBoxItem Content="До востребования (0%)"/>
+            <ComboBoxItem Content="Депозитный (...%)"/>
+            -->
+        </ComboBox>
+        <Label Content="Введите номер телефона:" Grid.Row="1"  HorizontalAlignment="Center"/>
+        <TextBox Grid.Row="1" x:Name="phoneNumberTextBox" Width="200" Height="30" />
+        <Button Width="150" Grid.Row="2" Height="40" VerticalAlignment="Bottom" Margin="10" Content="Открыть счёт" x:Name="deleteAccountButton" Click="BtnOpenAccount_Click"/>
+    </Grid>
+</Window>

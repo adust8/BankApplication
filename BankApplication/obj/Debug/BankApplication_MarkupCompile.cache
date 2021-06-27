@@ -1,0 +1,20 @@
+﻿BankApplication
+
+
+winexe
+C#
+.cs
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\obj\Debug\
+BankApplication
+none
+false
+DEBUG;TRACE
+C:\Users\maske\source\repos\etogood\BankApp\BankApplication\App.xaml
+112011548024
+
+15-260276625
+15-1374549920
+Windows\Autorization.xaml;Windows\MainMenu.xaml;Windows\OpenAccount.xaml;Windows\SignIn.xaml;Windows\Страницы MainMenu\Account.xaml;Windows\Страницы MainMenu\Add.xaml;Windows\Страницы MainMenu\Transfer.xaml;Windows\Страницы MainMenu\Способы перевода\Account.xaml;Windows\Страницы MainMenu\Способы перевода\Phone.xaml;Windows\Страницы MainMenu\Способы платежа\FromAccount.xaml;Windows\Страницы MainMenu\Способы платежа\FromAnyCard.xaml;
+
+False
+
